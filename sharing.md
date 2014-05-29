@@ -32,7 +32,7 @@ Thank you!
 
 ### Template Tweets
 
-...
+* Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to submit a response to their RFI this week. bit.ly/SVb6ak
 
 
 ### Template Facebook Posts
