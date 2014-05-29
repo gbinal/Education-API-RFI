@@ -1,7 +1,9 @@
 
-* [Template Email]()
-* [Template Tweets]()
-* [Template Facebook Posts]()
+## Ways to Share 
+
+* [Template Email](https://github.com/gbinal/Education-API-RFI/blob/master/sharing.md#template-email-to-send-to-others)
+* [Template Tweets](https://github.com/gbinal/Education-API-RFI/blob/master/sharing.md#template-tweets)
+* [Template Facebook Posts](https://github.com/gbinal/Education-API-RFI/blob/master/sharing.md#template-facebook-posts)
 
 
 ### Template Email to Send to Others
