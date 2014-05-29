@@ -26,7 +26,7 @@ Email APIRFI@ed.gov with a subject like "RFI #2014-08649 response".  You can use
 
 > I am writing in response to the Department of Education Request for Information ([#2014-08649](https://www.federalregister.gov/articles/2014/04/16/2014-08649/request-for-information-on-the-use-of-apis-in-higher-education-data-and-student-aid-processes)), entitled "Request for Information on the Use of APIs in Higher Education Data and Student Aid Processes."
 
-> Thank you for investigating this topic.  Technology and business trends have shown that an API-first model is central to moderizing systems and truly serve customers.  It's critically important that the Department of Education step up its efforts in this area.  Below are answers to some of your request for information.  Thank you for your consideration.  
+> Thank you for investigating this topic.  Technology and business trends have shown that an API-first model is central to modernizing systems and truly serve customers.  It's critically important that the Department of Education step up its efforts in this area.  Below are answers to some of your request for information.  Thank you for your consideration.  
 
 >  << Add in Your Responses Here  >>
 
