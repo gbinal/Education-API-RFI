@@ -46,7 +46,7 @@ Thank you for helping with this.  It's going to make a difference.
 
 ### Template Tweets
 
-Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to submit a response to their RFI this week. bit.ly/SVb6ak
+Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to weigh in. Just email APIRFI@ed.gov with your thoughts by June 2
 
 
 ### Template Facebook Posts
