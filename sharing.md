@@ -32,10 +32,12 @@ Thank you!
 
 ### Template Tweets
 
-* Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to submit a response to their RFI this week. bit.ly/SVb6ak
+Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to submit a response to their RFI this week. bit.ly/SVb6ak
 
 
 ### Template Facebook Posts
 
-...
+HELP NEEDED: The Dept. of Education has formally asked for public input on whether/how to use APIs in "higher education data and student aid programs".   This is a BFD and the response window is about to close.  You - yes, YOU - can help immensely in just a few minutes.  
+
+Please take a moment to help make the #studentloan system so much better!  https://github.com/gbinal/Education-API-RFI#readme
 
