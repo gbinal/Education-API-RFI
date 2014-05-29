@@ -6,7 +6,9 @@
 * [Template Facebook Posts](https://github.com/gbinal/Education-API-RFI/blob/master/sharing.md#template-facebook-posts)
 
 
-### Template Email to Send to Others
+### Template Emails to Send to Others
+
+#### Email 1
 
 Subj: Don’t miss your chance to weigh in on tech + student aid
 
@@ -28,6 +30,18 @@ We’d really like to make sure student advocates, designers, developers, and an
 To weigh in, email APIRFI@ed.gov by June 2nd.
  
 Thank you!
+
+#### Email 2
+
+Hi folks,  
+
+The deadline for responding to Ed.'s request for information is almost here.  In short, they [formally asked for feedback](http://www.ed.gov/blog/2014/04/how-can-the-department-of-education-increase-innovation-transparency-and-access-to-data/) on whether/how to integrate APIs into "higher education data and the student aid programs".  In other words, **this is one of the best opportunities any of us will have** to drive the student aid program to modernize and open up.  The potential of this is huge. 
+
+All of the background as well as anything you might need to respond [can be found here](https://github.com/gbinal/Education-API-RFI#readme).  
+
+**Please - take one minute and [submit a response](https://github.com/gbinal/Education-API-RFI/blob/master/response_material.md)**.  If you time to offer a more thorough response, your advice will literally go towards shaping Ed's response.  
+
+Thank you for helping with this.  It's going to make a difference.  
 
 
 ### Template Tweets
