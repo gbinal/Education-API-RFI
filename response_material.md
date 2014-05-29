@@ -16,10 +16,10 @@ Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response" and include
 
 ## Option 2 - A Complete Response 
 
-Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response".  You can use the below Email Template and append your responses to the end.  These can be free form or by copying and pasting individual prompts and including your responses to each prompt in line.  
+Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response".  You can use the below Email Template and append your responses to the end.  These can be free form or by copying and pasting individual questions from the [below list](https://github.com/gbinal/Education-API-RFI/blob/master/response_material.md#the-specific-questions-asked-in-the-rfi) and including your responses to each prompt in line.  
 
 
-## Email Template for Responses
+### Email Template for Responses
 
 
 > To Whom It May Concern.  
@@ -32,7 +32,7 @@ Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response".  You can u
 
 
 ## The Specific Questions Asked In the RFI
-
+*[copy and paste individual questions along with your responses into your email response]*
 
 ### Section A. Information Gaps and Needs in Accessing Current Data and Aid Programs
 
