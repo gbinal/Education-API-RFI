@@ -3,7 +3,7 @@
 
 ## Option 1 - Uber-Fast Response
 
-Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response" and include one or more to-the-point response like: 
+Email APIRFI@ed.gov with a subject like "RFI #2014-08649 response" and include one or more to-the-point response like: 
 * Please make more APIs available for higher education data.  
 * Please make all financial aid transactions available as write APIs.  
 * All public data from the Department of Education should be queryable through an API.
@@ -16,7 +16,7 @@ Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response" and include
 
 ## Option 2 - A Complete Response 
 
-Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response".  You can use the below Email Template and append your responses to the end.  These can be free form or by copying and pasting individual questions from the [below list](https://github.com/gbinal/Education-API-RFI/blob/master/response_material.md#the-specific-questions-asked-in-the-rfi) and including your responses to each prompt in line.  
+Email APIRFI@ed.gov with a subject like "RFI #2014-08649 response".  You can use the below Email Template and append your responses to the end.  These can be free form or by copying and pasting individual questions from the [below list](https://github.com/gbinal/Education-API-RFI/blob/master/response_material.md#the-specific-questions-asked-in-the-rfi) and including your responses to each prompt in line.  
 
 
 ### Email Template for Responses
