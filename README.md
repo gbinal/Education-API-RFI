@@ -1,7 +1,7 @@
 
 ## Summary 
 
-The Deparmtent of Education is formally asking whether and how APIs should be used in "higher education data and student aid programs and processes at the Department."  There is a huge need for this and we need to tell them so.
+The Department of Education is formally asking whether and how APIs should be used in "higher education data and student aid programs and processes at the Department."  There is a huge need for this and we need to tell them so.
 
 Any interested party (that means you!) may submit responses by emailing them to APIRFI@ed.gov by **COB June 2**.  Note that your submission will be made public.
 
