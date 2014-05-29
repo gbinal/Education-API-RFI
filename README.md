@@ -7,7 +7,9 @@ Education has asked whether and how they should include APIs in their student lo
 
 ## Summary 
 
-APIRFI@ed.gov by June 2.
+They are asking how APIs can or should be used in "higher education data and student aid programs and processes at the Department." 
+
+Any interested party (that means you!) may submit responses by emailing them to APIRFI@ed.gov by COB June 2.  Note that your submission will be made public.
 
 ## Actions You Can Take 
 * Email your comments!
