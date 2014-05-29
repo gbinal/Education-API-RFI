@@ -1,37 +1,39 @@
 
 
 
-## Simple Responses
+## Option 1 - Uber-Fast Response
 
-* Please make more APIs available for Education data.  
-* Make all transactions available as write APIs.  
-* All public data should be queryable through an API.
-* Anything I have to submit to Ed, I should be able to submit through 3rd party apps.  
+Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response" and include one or more to-the-point response like 
 
+* Please make more APIs available for higher education data.  
+* Please make all financial aid transactions available as write APIs.  
+* All public data from the Department of Education should be queryable through an API.
+* Anything I have to submit to the Department of Education, I should be able to submit through 3rd party apps.  
+* Given today's technology, it's important to offer RESTful read/write APIs for any government process.  
 
+*...Be sure to include any other initial thoughts that you have.*
 
-#### Notes
-Include ideas for APIs from colleges.  
+## Option 2 - A Complete Response 
 
-
-Ideas for Apps:
-
-
-Ideas for Write APIs:
-
-Ideas for Read APIs:
+Email [APIRFI@ed.gov] with a subject like "RFI #2014-08649 response".  You can use the below Email Template and append your responses to the end.  These can be free form or by copying and pasting individual prompts and including your responses to each prompt in line.  
 
 
-Standards for the APIs:
-https://github.com/whitehouse/api-standards
+## Email Template for Responses
 
+````
+To Whom It May Concern.  
 
+I am writing in response to the Department of Education Request for Information ([#2014-08649](https://www.federalregister.gov/articles/2014/04/16/2014-08649/request-for-information-on-the-use-of-apis-in-higher-education-data-and-student-aid-processes)), entitled "Request for Information on the Use of APIs in Higher Education Data and Student Aid Processes."
 
-## The Specific Questions Asked
+Thank you for investigating this topic.  Technology and business trends have shown that an API-first model is central to moderizing systems and truly serve customers.  It's critically important that the Department of Education step up its efforts in this area.  Below are answers to some of your request for information.  Thank you for your consideration.  
+
+ << Add in Your Responses Here  >>
+````
+
+## The Specific Questions Asked In the RFI
 
 
 ### Section A. Information Gaps and Needs in Accessing Current Data and Aid Programs
-
 
 *Section A, Question 1*: How could data sets that are already publicly available be made more accessible using APIs? Are there specific data sets that are already available that would be most likely to inform consumer choice about college affordability and performance?  
 *Section A, Question 2*: How could APIs help people with successfully and accurately completing forms associated with any of the following processes: FAFSA; Master Promissory Note; Loan Consolidation; entrance and exit counseling; Income-Driven Repayment (IDR) programs, such as Pay As You Earn; and the Public Student Loan Forgiveness program?  
@@ -56,8 +58,7 @@ https://github.com/whitehouse/api-standards
 
 ### Section D. Technical Specifications
 
-*Section D, Question 1*: What elements would a read-write API need to include for successful use at the Department?
-  
+*Section D, Question 1*: What elements would a read-write API need to include for successful use at the Department?  
 *Section D, Question 2*: What data, methods, and other features must an API contain in order to develop apps accessing Department data or enhancing Department processes, programs, or services?  
 *Section D, Question 3*: How would read-only and/or read-write APIs interact with or modify the performance of the Department's existing systems (e.g., FAFSA on the Web)? Could these APIs negatively or positively affect the current operating capability of such systems? Would these APIs allow for the flexibility to evolve seamlessly with the Department's technological developments?  
 *Section D, Question 4*: What vulnerabilities might read-write APIs introduce for the security of the underlying databases the Department currently uses?  
@@ -98,27 +99,5 @@ https://github.com/whitehouse/api-standards
 *Section G, Question 4*: How would APIs best interact with other systems already in use in student aid processes (e.g., within States)?  
 *Section G, Question 5*: How would Department APIs benefit or burden institutions participating in title IV, HEA programs?  
 *Section G, Question 6*: While the Department continues to enhance and refine its own processes and products (e.g., through improvements to FAFSA or the IDR application process), how would third-party efforts using APIs complement or present challenges to these processes?  
-
-
-
-
-## Email Template for Responses
-
-To Whom It May Concern.  
-
-I am writing in response to the Department of Education Request for Information (#[2014-08649](https://www.federalregister.gov/articles/2014/04/16/2014-08649/request-for-information-on-the-use-of-apis-in-higher-education-data-and-student-aid-processes)), entitled "Request for Information on the Use of APIs in Higher Education Data and Student Aid Processes."
-
-Thank you for investigating this topic.  Technology and business trends have shown that an API-first model is central to moderizing systems and truly serve customers.  It's critically important that the Department of Education step up its efforts in this area.  Below are answers to some of your request for information.  Thank you for your consideration.  
-
- << Add in Your Responses Here  >>
-
-
-
-
-
-
-
-
-
 
 
