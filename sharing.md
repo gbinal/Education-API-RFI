@@ -48,6 +48,8 @@ Thank you for helping with this.  It's going to make a difference.
 
 Help! Dept. of Ed is asking whether to use APIs. We need you (yes, YOU) to weigh in. Just email APIRFI@ed.gov with your thoughts by June 2
 
+Should @usedgov have open read/write APIs for financial aid applications? Why? Email your thoughts to apirfi@ed.gov by June 2! Pls RT!
+
 
 ### Template Facebook Posts
 
