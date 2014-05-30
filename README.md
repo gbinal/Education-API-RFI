@@ -5,6 +5,8 @@ The Department of Education is formally asking whether and how APIs should be us
 
 Any interested party (that means you!) may submit responses by emailing them to APIRFI@ed.gov by **COB June 2**.  Note that your submission will be made public.
 
+Short URL - http://bit.ly/edapinow
+
 ## Actions You Can Take 
 1.  **MOST IMPORTANT** [Submit your comments](https://github.com/gbinal/Education-API-RFI/blob/master/response_material.md)!
 2.  [Post a call to action to Facebook]()
